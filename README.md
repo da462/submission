@@ -5,5 +5,6 @@ We provide code for understanding the regret performance of BPE-Delay, GP-UCB-SD
 In order to conduct experiments, follow these steps similar to those in the referenced repsoitory:
 * Generate an objective function as described in the referenced repository.
 * Run main.py to execute ```BPE```, ```BPE-Delay```, ```GP-UCB-SDF``` or ```GP-UCB```.
+
 ```python main.py [function_name] [beta] [poisson_parameter] [algorithm]```
 * The supported choice of beta is ```[6]```. Edit the dictionary BETA at the top of main.py to add more choices of beta.
