@@ -1,4 +1,4 @@
-Accompanying code for the ICML 2023 submission entitled 'Delayed Feedback in Kernel Bandits'. 
+Accompanying code for the ICML 2023 submission titled 'Delayed Feedback in Kernel Bandits'. 
 
 We provide code for understanding the regret of BPE-Delay, GP-UCB-SDF, BPE or GP-UCB with varying levels of stochastic delayed feedback. We acknowledge the use of the code from the open source repository: https://github.com/lizihan97/BPE. The code in the refrenced repository contains code for understanding the regret of BPE and GP-UCB without delayed feedback. The code for generating the objective function is also from the referenced repository. 
 
